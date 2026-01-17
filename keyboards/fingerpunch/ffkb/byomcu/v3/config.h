@@ -55,6 +55,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define ENCODER_RESOLUTION 2
 
+#define FP_STARTUP_ANIMATION_DISABLE
+
 #ifdef CIRQUE_ENABLE
   // cirque trackpad config
   #define CIRQUE_PINNACLE_ADDR 0x2A
